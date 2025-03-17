@@ -21,13 +21,13 @@ By completing this lab, you will:
 - Use the starter code in lab01_functions.py to create a structure chart for the program.
 - Upload your structure chart to your forked GitHub repository
 ### Step 2: Implement the missing functions
-- Complete the each of the functions to calculate the area and volume.
+- Complete each of the functions to calculate area and volume.
 ### Step 3: Test your functions
 - Run the program and choose different shapes.
 - Verify that the correct area or volume is displayed.
-### Step 4: Extend the program (Optional)
-- Create another structure chart for calculating the perimeter of suitable shapes.
-- Modify you code to include this function.
+### Step 4: Extend the program
+- Edit your structure chart to include an option for calculating the perimeter of suitable shapes.
+- Modify your code to include this function.
 - Add a loop to allow multiple calculations without restarting the program. 
 - Add error handling for invalid inputs.
 
