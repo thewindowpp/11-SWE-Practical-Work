@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="88308122-8eaa-4a32-b2cc-956e2934ba4e" name="Changes" comment="Added Labs 120.3A-C">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab 1 - Structure charts to functions/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 120.3B - Flowcharts to Python/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,8 @@
       <updated>1742179155595</updated>
       <workItem from="1742179156693" duration="3474000" />
       <workItem from="1742253796231" duration="8000" />
-      <workItem from="1742954881975" duration="3692000" />
+      <workItem from="1742954881975" duration="5608000" />
+      <workItem from="1743031320380" duration="609000" />
     </task>
     <task id="LOCAL-00001" summary="Added Lab 1">
       <option name="closed" value="true" />
@@ -158,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742959153226</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Labs 120.3A-C">
+      <option name="closed" value="true" />
+      <created>1742959556560</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1742959556560</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

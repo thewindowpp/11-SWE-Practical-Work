@@ -1,7 +1,6 @@
 ## Lab 120.3B - Flowcharts to Python
 ### Overview
-This lab asks you to write Python code based on a provided flowchart that calculates and displays the average of a set of positive numbers entered by the user. The number of inputs is not fixed in advance. You’ll also implement error checking and use modular functions.
-
+This lab asks you to write Python code based on a provided flowchart that runs a binary search algorithm to find an item in an array.
 ### Learning objectives
 - Interpret branching and looping logic in flowcharts
 - Use condition-controlled loops (WHILE) and exception handling
